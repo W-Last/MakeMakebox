@@ -1,0 +1,86 @@
+MAKEMAKE LICENSE AGREEMENT
+
+This MAKEMAKE License ("License") is a legally binding agreement between you ("Licensee") and the copyright holder of MakeMakeBox ("Licensor"). By using, copying, or modifying MakeMakeBox, also referred to as MakeBox, you agree to abide by the terms of this License.
+
+1. DEFINITIONS
+
+1.1 "MakeMakeBox" or "MakeBox" refers to the software, including the source code, binaries, and associated files and libraries as provided by the Licensor.
+
+1.2 "Original Source Code" refers to the unmodified source code as distributed by the Licensor.
+
+1.3 "Copy" refers to any duplication or reproduction of the Original Source Code or parts thereof.
+
+1.4 "Derived Work" refers to any modifications or adaptations made to the Original Source Code.
+
+2. PERMITTED USES
+
+2.1 Licensee is permitted to:
+
+Use the MakeMakeBox software for personal or commercial purposes.
+
+Modify the Original Source Code to create Derived Works, provided that the terms of Section 4 are followed.
+
+Distribute the Original Source Code or Derived Works under the terms of this License.
+
+3. OBLIGATORY NOTICE REQUIREMENTS
+
+3.1 If the Original Source Code or a Derived Work is used or executed, the program must display the following message:
+
+"""
+YOUR DISTRO NAME
+___  ___  ___   _   __ ________  ___      _         ______           
+|  \/  | / _ \ | | / /|  ___|  \/  |     | |        | ___ \          
+| .  . |/ /_\ \| |/ / | |__ | .  . | __ _| | _____  | |_/ / _____  __
+| |\/| ||  _  ||    \ |  __|| |\/| |/ _` | |/ / _ \ | ___ \/ _ \ \/ /
+| |  | || | | || |\  \| |___| |  | | (_| |   <  __/ | |_/ / (_) >  <_________
+\_|  |_/\_| |_/\_| \_/\____/\_|  |_/\__,_|_|\_\___| \____/ \___/_/\__________| v1.0
+[ with MakeMake License ] By YOUR NAME/NICKNAME
+"""
+
+This is MakeMakeBox (or MakeBox), a project under the MAKEMAKE License.
+If this is a Copy of the Original Source Code, proper attribution must be provided.
+
+3.2 Any distribution of the Original Source Code or Derived Work must include this License file in its entirety.
+
+4. CONDITIONS FOR MODIFICATIONS
+
+4.1 If you create a Derived Work, you must:
+
+Clearly indicate the changes made to the Original Source Code.
+
+Retain the required notice from Section 3.1 in any modified versions.
+
+Include attribution to the original Licensor in any documentation or notices accompanying the Derived Work.
+
+4.2 Derived Works must not misrepresent the origin of the software. Any changes must be documented, and the Derived Work must not claim to be the Original Source Code.
+
+5. PROHIBITED USES
+
+5.1 Licensee is prohibited from:
+
+Removing or altering any copyright notices, attributions, or license texts included with the Original Source Code.
+
+Misrepresenting a Copy as the Original Source Code.
+
+6. DISCLAIMER OF WARRANTY
+
+6.1 The MakeMakeBox software is provided "as is," without any warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The entire risk as to the quality and performance of the software is with you.
+
+7. LIMITATION OF LIABILITY
+
+7.1 In no event shall the Licensor be liable for any damages, including but not limited to direct, indirect, incidental, special, or consequential damages, arising out of the use or inability to use the software.
+
+8. TERMINATION
+
+8.1 This License shall remain in effect perpetually unless terminated as provided herein.
+
+8.2 If you breach any term of this License, your rights under this License will terminate automatically without notice from the Licensor. Upon termination, you must cease all use of the MakeMakeBox software and destroy all Copies in your possession.
+
+9. MISCELLANEOUS
+
+9.1 This License constitutes the entire agreement between the Licensor and Licensee with respect to the MakeMakeBox software.
+
+9.2 Any disputes arising under this License shall be governed by the laws of the jurisdiction of the Licensor.
+
+By using or copying MakeMakeBox, you acknowledge that you have read, understood, and agree to be bound by the terms of this License.
+
